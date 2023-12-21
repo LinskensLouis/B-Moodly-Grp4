@@ -1,0 +1,25 @@
+<svg width="529" height="514" viewBox="0 0 529 514" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_141_136)">
+<circle cx="264.5" cy="249.5" r="123.5" fill="url(#paint0_linear_141_136)"/>
+</g>
+<circle cx="264.5" cy="249.5" r="93.5" fill="url(#paint1_linear_141_136)"/>
+<path d="M260.385 254.423L259.866 254.527C256.649 255.17 253.578 256.398 250.805 258.15L247.819 260.036C246.29 261.001 244.982 262.277 243.979 263.782L243.243 264.886C242.753 265.621 242.418 266.448 242.26 267.317L242.115 268.118C241.742 270.171 242.624 272.249 244.36 273.407C245.417 274.111 246.694 274.407 247.954 274.24L252.114 273.685C253.036 273.562 253.946 273.361 254.834 273.083L258.475 271.945C260.48 271.319 262.569 271 264.669 271C266.548 271 268.418 271.255 270.227 271.758L275.486 273.218C276.161 273.406 276.849 273.544 277.544 273.631L282.575 274.259C283.789 274.411 285.006 273.994 285.872 273.128C286.879 272.121 287.269 270.652 286.894 269.279L286.328 267.202C286.111 266.406 285.767 265.65 285.309 264.963L284.467 263.7C283.495 262.242 282.304 260.943 280.935 259.848L280.114 259.191C277.084 256.767 273.467 255.113 269.655 254.387C266.602 253.805 263.433 253.813 260.385 254.423Z" fill="black" stroke="black" stroke-width="3" stroke-linecap="round"/>
+<path d="M299 236.5C300.275 237.775 299.5 242.5 291.5 242.5C283 242.5 278.717 236.216 277 234.5C275.152 232.652 272.179 226.429 274.5 225.5C277 224.5 280.565 231.691 285.5 233.5C291 235.516 297 234.5 299 236.5Z" fill="black"/>
+<path d="M229.492 236.095C228.217 237.369 228.992 242.095 236.992 242.095C245.492 242.095 249.776 235.811 251.492 234.095C253.34 232.246 256.313 226.023 253.992 225.095C251.492 224.095 247.927 231.285 242.992 233.095C237.492 235.111 231.492 234.095 229.492 236.095Z" fill="black"/>
+<defs>
+<filter id="filter0_f_141_136" x="0" y="-15" width="529" height="529" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="70.5" result="effect1_foregroundBlur_141_136"/>
+</filter>
+<linearGradient id="paint0_linear_141_136" x1="264.5" y1="126" x2="264.5" y2="373" gradientUnits="userSpaceOnUse">
+<stop stop-color="#67686B"/>
+<stop offset="1" stop-color="#DEE1E9"/>
+</linearGradient>
+<linearGradient id="paint1_linear_141_136" x1="264.5" y1="156" x2="264.5" y2="343" gradientUnits="userSpaceOnUse">
+<stop stop-color="#67686B"/>
+<stop offset="1" stop-color="#DEE1E9"/>
+<stop offset="1" stop-color="#DEE1E9"/>
+</linearGradient>
+</defs>
+</svg>
